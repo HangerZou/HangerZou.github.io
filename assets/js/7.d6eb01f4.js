@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{477:function(t,n,e){"use strict";e.r(n);var s={methods:{btnClick:function(){console.log("6666")}}},c=e(39),l=Object(c.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("el-button",{attrs:{type:"success"}},[this._v("按钮")])}),[],!1,null,null,null);n.default=l.exports}}]);
